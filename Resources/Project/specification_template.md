@@ -4,7 +4,7 @@
 The objective of this assignment is to allow students to become familiar with the Model-View-Controller architectural pattern and the Factory Method design pattern.
 
 ## Application Description
-Use Java to design and implement a desktop application for `<whatever your app does>`. The application should have `<nr of users>` types of users (`<nr of users - 1>` regular users and an administrator user) which have to provide a username and a password in order to use the application.
+Use Java to design and implement a desktop application for `<whatever your app does>`. The application should have `<nr of user types>` types of users (`<nr of user types - 1>` regular users and an administrator user) which have to provide a username and a password in order to use the application.
 
 The `<type#1>` user can perform the following operations:
 * `<operation#1>`
