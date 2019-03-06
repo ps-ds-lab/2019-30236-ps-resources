@@ -2,6 +2,7 @@
 
 ## 27 Februarie
 * [Lista exeple proiect \*nu puteti alege un proiect din aceasta lista](https://github.com/ps-ds-lab/2019-30236-ps-resources/blob/master/Resources/Project/Projects%20List%20examples.pdf)
+* [OOP/UML revision](https://github.com/ps-ds-lab/2019-30236-ps-resources/blob/master/Resources/L1_Revision.pdf)
 
 ## 6 Martie
 * [Get started with Maven](https://maven.apache.org/users/index.html)
