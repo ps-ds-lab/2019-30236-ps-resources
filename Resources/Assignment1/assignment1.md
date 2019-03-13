@@ -16,7 +16,8 @@ Administratorul poate realiza urmatoarele actiuni:
 ## Constrangeri
 - Aplicatia va fi implementata in Java/C# si va avea o structura layered.
 - Datele vor fi stocate intr-o baza de date relationala. Nu folositi un framework ORM.
-- Orice input va fi validat la primirea din presentation layer.
+- Orice input de la utilizator trebuie validat.
+- Use a domain logic pattern (transaction script or domain model) / a data source hybrid pattern (table module, active record) and a data source pure pattern (table data gateway, row data gateway, data mapper) most suitable for the application.
 
 ## Livrabile
 - [Documentatie](./Assignment_Analysis_and_Design_Document.docx)

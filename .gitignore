@@ -1,0 +1,6 @@
+**/target/
+**/.idea/*
+**/*.iml
+**/*.log
+**/build/
+**/classes/

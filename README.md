@@ -11,3 +11,5 @@
 
 ## 3. 13 Martie
 * [Assignment 1](./Resources/Assignment1/assignment1.md)
+* [Layers](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
+* [Use prepared statements](https://xkcd.com/327/)
