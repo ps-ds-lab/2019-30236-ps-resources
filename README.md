@@ -1,5 +1,7 @@
 # Resurse proiectare software pentru grupa 30236
 
+### [Structura laborator & deadlines](./Resources/semester_structure.md)
+
 ## 1. 27 Februarie
 * [Lista exeple proiect \*nu puteti alege un proiect din aceasta lista](https://github.com/ps-ds-lab/2019-30236-ps-resources/blob/master/Resources/Project/Projects%20List%20examples.pdf)
 * [OOP/UML revision](https://github.com/ps-ds-lab/2019-30236-ps-resources/blob/master/Resources/L1_Revision.pdf)
@@ -13,3 +15,4 @@
 * [Assignment 1](./Resources/Assignment1/assignment1.md)
 * [Layers](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 * [Use prepared statements](https://xkcd.com/327/)
+* [JDBC](https://github.com/ps-ds-lab/2019-30236-ps-resources/tree/master/Resources/Lab%20code/03.%20JDBC)
