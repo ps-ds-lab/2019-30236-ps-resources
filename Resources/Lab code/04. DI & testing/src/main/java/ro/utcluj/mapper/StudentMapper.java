@@ -14,8 +14,8 @@ public class StudentMapper {
 
     private final StudentDAO studentDAO;
 
-    public StudentMapper() throws SQLException {
-        this.studentDAO = new StudentDAO();
+    public StudentMapper(StudentDAO studentDAO) {
+        this.studentDAO = studentDAO;
     }
 
     public List<Student> findAll() throws SQLException {

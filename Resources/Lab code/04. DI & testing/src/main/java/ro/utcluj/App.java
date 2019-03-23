@@ -1,11 +1,13 @@
 package ro.utcluj;
 
 
+import ro.utcluj.dao.StudentDAO;
 import ro.utcluj.mapper.StudentMapper;
 import ro.utcluj.enitity.Student;
 
+import java.sql.Connection;
+import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.util.List;
 
 /**
  * Hello world!
@@ -13,7 +15,10 @@ import java.util.List;
 public class App {
 
     public static void main(String[] args) throws SQLException {
-        StudentMapper mapper = new StudentMapper();
+        Connection connection = DriverManager.getConnection(
+                "jdbc:mysql://localhost:3306/school", "root", "root");
+        StudentDAO studentDAO = new StudentDAO(connection);
+        StudentMapper mapper = new StudentMapper(studentDAO);
 
         studentDemo(mapper);
     }

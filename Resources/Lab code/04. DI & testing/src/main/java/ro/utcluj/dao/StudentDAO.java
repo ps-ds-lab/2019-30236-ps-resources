@@ -9,9 +9,8 @@ public class StudentDAO {
 
     private final Connection connection;
 
-    public StudentDAO() throws SQLException {
-        this.connection = DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/school", "root", "root");
+    public StudentDAO(Connection connection) {
+        this.connection = connection;
     }
 
     public ResultSet findAll() throws SQLException {
