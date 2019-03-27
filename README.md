@@ -24,3 +24,9 @@
 * [Mockito Slides](https://speakerdeck.com/jeroenmols/testing-made-sweet-with-a-mockito?slide=23)
 * [Dagger 2 talk](https://youtu.be/oK_XtfXPkqw)
 * [Effective Java: Dependency injection (~3:40 - 11:30)](https://media.simplecast.com/episodes/audio/109444/fragmented-ef-java-5-final-auphonic.mp3)
+
+## 5. 27 Martie - ASSIGNMENT 1 DEADLINE!
+- [Notification pattern example](https://github.com/SoftwareDesign2017/LabCodeExamples/tree/master/Example%203)
+- [Fowler's Notification pattern](https://martinfowler.com/articles/replaceThrowWithNotification.html)
+- [Java Exceptions - Best Practices 1](http://javarevisited.blogspot.ro/2013/03/0-exception-handling-best-practices-in-Java-Programming.html)
+- [Java Exceptions - Best Practices 2](https://www.javacodegeeks.com/2013/07/java-exception-handling-tutorial-with-examples-and-best-practices.html)
