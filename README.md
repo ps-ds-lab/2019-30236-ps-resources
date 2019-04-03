@@ -30,3 +30,7 @@
 - [Fowler's Notification pattern](https://martinfowler.com/articles/replaceThrowWithNotification.html)
 - [Java Exceptions - Best Practices 1](http://javarevisited.blogspot.ro/2013/03/0-exception-handling-best-practices-in-Java-Programming.html)
 - [Java Exceptions - Best Practices 2](https://www.javacodegeeks.com/2013/07/java-exception-handling-tutorial-with-examples-and-best-practices.html)
+
+## 6. 3 Aprilie
+- [DI using Spring](https://github.com/ps-ds-lab/2019-30236-ps-resources/tree/master/Resources/Lab%20code/06.%20DI%20using%20Spring)
+- [Spring Initializr](https://start.spring.io/)
