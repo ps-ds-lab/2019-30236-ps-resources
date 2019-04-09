@@ -34,3 +34,8 @@
 ## 6. 3 Aprilie
 - [DI using Spring](https://github.com/ps-ds-lab/2019-30236-ps-resources/tree/master/Resources/Lab%20code/06.%20DI%20using%20Spring)
 - [Spring Initializr](https://start.spring.io/)
+
+
+## 7. 10 Aprilie
+- [Introduction to Srping data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
+- [Transactions with Spring and JPA](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
