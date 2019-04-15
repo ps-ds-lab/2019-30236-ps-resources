@@ -39,3 +39,5 @@
 ## 7. 10 Aprilie
 - [Introduction to Srping data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
 - [Transactions with Spring and JPA](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
+
+## 8. 17 Aprilie - ASSIGNMENT 2 DEADLINE!
