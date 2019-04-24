@@ -41,3 +41,7 @@
 - [Transactions with Spring and JPA](https://www.baeldung.com/transaction-configuration-with-jpa-and-spring)
 
 ## 8. 17 Aprilie - ASSIGNMENT 2 DEADLINE!
+
+## 9. 24 Aprilie
+- [Spring Remoting tutorial](https://www.baeldung.com/spring-remoting-http-invoker)
+- [Spring remoting example](https://github.com/ps-ds-lab/2019-30236-ps-resources/tree/master/Resources/Lab%20code/09.%20Spring%20Remoting)
