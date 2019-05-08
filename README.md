@@ -48,5 +48,5 @@
 
 ## 10. 8 Mai
 - [Secure spring remote backend with in memory authentication - example](https://github.com/ps-ds-lab/2019-30236-ps-resources/tree/master/Resources/Lab%20code/10.1.%20Spring%20remoting%20%2B%20spring%20security)
-- [Spring database backed security](https://www.baeldung.com/spring-security-authentication-with-a-database) - mention: the tutorials on this site usually include an xml configuration section, however this part can be skipped when using annotation configuration
+- [Spring database backed security](https://www.baeldung.com/spring-security-authentication-with-a-database) - mention: the tutorials on this site usually include an xml configuration section, however this part can(should) be ignored when using annotation configuration
 - [Sockets for push notifications - example](https://github.com/ps-ds-lab/2019-30236-ps-resources/tree/master/Resources/Lab%20code/10.2.%20Sockets)
