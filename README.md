@@ -1,3 +1,5 @@
+# [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdPIfswmVqe_eBV02AcVC_6a-jE9Uu7hR7-svEiJhwpthjE4A/viewform?usp=sf_link)
+
 # Resurse proiectare software pentru grupa 30236
 
 ### [Structura laborator & deadlines](./Resources/semester_structure.md)
